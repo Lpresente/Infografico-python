@@ -1,1 +1,1 @@
-# Infogr-fico-python
+# Infografico-python
