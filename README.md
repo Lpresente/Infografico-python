@@ -3,23 +3,97 @@
   <img src="infografico_sustentabilidade_v2.png" alt="Infográfico educativo sobre meio ambiente e desenvolvimento sustentável" width="800">
 </p>
 
-Meio ambiente e desenvolvimento sustentável: infográfico educativo em Python
-Descrição e contexto da atividade
-A atividade consiste na elaboração de um infográfico educativo sobre meio ambiente e desenvolvimento sustentável, utilizando Python e a biblioteca Pillow. O material combina ilustrações, ícones, diagramas e textos para apresentar conceitos ambientais de forma clara, acessível e visualmente atrativa.
+🌱 Meio Ambiente e Desenvolvimento Sustentável — Infográfico em Python
 
-O tema aborda a importância de atender às necessidades atuais sem comprometer as possibilidades das futuras gerações. Nesse contexto, o infográfico apresenta os três pilares da sustentabilidade — ambiental, social e econômico —, os cinco Rs do consumo consciente e exemplos de ações relacionadas à água, energia, mobilidade e preservação da natureza. Também faz referência aos Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU.
+Tecnologia, programação e consciência ambiental em um só projeto! 🌎💻
 
-Objetivo e desenvolvimento
-O objetivo é utilizar a programação como ferramenta de comunicação e educação ambiental, aproximando conhecimentos tecnológicos de questões presentes no cotidiano. O código organiza os elementos visuais e gera uma imagem em PNG, podendo ser executado localmente, inclusive no Jupyter Notebook.
+Este projeto consiste na criação de um infográfico educativo sobre meio ambiente e desenvolvimento sustentável, desenvolvido em Python com a biblioteca Pillow. A proposta é transformar conceitos ambientais em conteúdo visual acessível, combinando programação, design e educação para incentivar a reflexão sobre práticas sustentáveis no dia a dia.
 
-As representações visuais são conceituais: não apresentam percentuais ou resultados de pesquisas. O código será disponibilizado publicamente no GitHub, permitindo que outras pessoas consultem o processo de construção, executem o projeto e estudem sua organização.
+📌 Sobre o projeto
 
-Impactos potenciais
-Educacional: facilitar a compreensão de conceitos de sustentabilidade por meio de uma linguagem visual.
-Ambiental e social: estimular a reflexão sobre consumo consciente, preservação dos recursos naturais e responsabilidade coletiva.
-Tecnológico: demonstrar uma aplicação prática de Python na produção de materiais educativos.
-Compartilhamento do conhecimento: permitir que outras pessoas conheçam o código e reproduzam o material, ampliando suas possibilidades de uso educativo.
-Esses impactos são possibilidades de contribuição do projeto, não resultados já medidos ou comprovados.
+O infográfico apresenta informações sobre sustentabilidade de maneira didática e visualmente atrativa, facilitando a compreensão de temas importantes para a sociedade e para o futuro do planeta.
 
-Resumo
-O projeto integra tecnologia, comunicação visual e educação ambiental por meio de um infográfico produzido em Python. A publicação da imagem e do código no GitHub busca compartilhar tanto o conteúdo sobre sustentabilidade quanto o processo técnico utilizado para apresentá-lo.
+🌍 Principais temas abordados:
+
+♻️ Os três pilares da sustentabilidade: ambiental, social e econômico.
+
+🌿 Os 5 Rs da sustentabilidade: repensar, recusar, reduzir, reutilizar e reciclar.
+
+💧 Uso consciente da água: práticas para evitar desperdícios e preservar os recursos hídricos.
+
+⚡ Eficiência energética: atitudes para reduzir o consumo de energia.
+
+🚲 Mobilidade sustentável: alternativas de transporte com menor impacto ambiental.
+
+🌳 Preservação da natureza: valorização da biodiversidade e dos recursos naturais.
+
+🎯 Agenda 2030 da ONU: conexão com os Objetivos de Desenvolvimento Sustentável (ODS).
+
+🎯 Objetivos
+
+O principal objetivo é demonstrar como a programação pode ser utilizada para criar materiais educativos e transmitir informações de forma clara, organizada e visualmente interessante.
+
+Além disso, o projeto busca:
+
+Aplicar conhecimentos de Python na produção de conteúdo visual.
+
+Desenvolver habilidades de organização, composição e apresentação de informações.
+
+Promover a educação ambiental e o consumo consciente.
+
+Compartilhar conhecimento por meio de um projeto público no GitHub.
+
+Incentivar outros estudantes e desenvolvedores a explorar aplicações criativas da programação.
+
+🛠️ Tecnologias utilizadas
+
+Tecnologia
+
+Aplicação
+
+🐍 Python
+
+Linguagem utilizada no desenvolvimento
+
+🎨 Pillow
+
+Criação e composição dos elementos gráficos
+
+🖼️ PNG
+
+Formato de saída do infográfico
+
+📓 Jupyter Notebook
+
+Ambiente opcional para execução e experimentação
+🌎 Impactos e contribuições potenciais
+
+📚 Educacional: facilita a apresentação de conceitos ambientais por meio de recursos visuais e linguagem acessível.
+
+🌱 Ambiental e social: incentiva a reflexão sobre consumo consciente, preservação dos recursos naturais e responsabilidade coletiva.
+
+💻 Tecnológico: demonstra uma aplicação prática da programação Python na criação de materiais gráficos educativos.
+
+🤝 Compartilhamento de conhecimento: disponibiliza o código para consulta, estudo, reprodução e possíveis melhorias por outros usuários.
+
+Essas contribuições representam possibilidades educativas do projeto, não resultados de impacto previamente mensurados.
+
+📖 Aprendizados
+
+O desenvolvimento deste projeto permite explorar conceitos como:
+
+Manipulação e composição de imagens com Python.
+
+Organização visual de textos, ícones e elementos gráficos.
+
+Estruturação de informações para comunicação educativa.
+
+Utilização de bibliotecas externas em projetos de programação.
+
+Integração entre tecnologia, criatividade e responsabilidade socioambiental.
+
+♻️ Considerações finais
+
+O projeto Meio Ambiente e Desenvolvimento Sustentável demonstra que a programação vai além da criação de sistemas e aplicações tradicionais: ela também pode ser utilizada como ferramenta de comunicação, conscientização e compartilhamento de conhecimento.
+
+Ao unir Python, recursos visuais e educação ambiental, o infográfico apresenta conceitos importantes de sustentabilidade de forma acessível, reforçando a importância de pequenas atitudes individuais e da responsabilidade coletiva na construção de um futuro mais sustentável.
